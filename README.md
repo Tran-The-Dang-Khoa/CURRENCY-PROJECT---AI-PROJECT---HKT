@@ -148,6 +148,8 @@ Thứ tự index phải khớp với thứ tự class lúc train model.
 
 ## Các mệnh giá hỗ trợ
 
+* 200 VND
+* 500 VND
 * 1.000 VND
 * 2.000 VND
 * 5.000 VND
