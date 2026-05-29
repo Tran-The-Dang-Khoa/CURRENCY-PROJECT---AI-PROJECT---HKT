@@ -201,4 +201,6 @@ Model có sử dụng những nguồn dataset từ kaggle, mô hình được t�
 * Webcam chất lượng thấp có thể làm giảm accuracy
 
 ---
-## Link test nhận diện: https://www.youtube.com/watch?fbclid=IwY2xjawSGlBlleHRuA2FlbQIxMABicmlkETFqSVVoZU5nbUgxeFZKeENxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhfvhSVXPo60KcR98wZILR5x4xIMoUvMzAaDOQUvDAzM01jsbWykFpug57zU_aem_rDXa-0JpQ5Hu2QNFlFjVtQ&v=tU1xWLKKMA8&feature=youtu.be
+## Link test nhận diện: 
+
+* https://www.youtube.com/watch?fbclid=IwY2xjawSGlBlleHRuA2FlbQIxMABicmlkETFqSVVoZU5nbUgxeFZKeENxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhfvhSVXPo60KcR98wZILR5x4xIMoUvMzAaDOQUvDAzM01jsbWykFpug57zU_aem_rDXa-0JpQ5Hu2QNFlFjVtQ&v=tU1xWLKKMA8&feature=youtu.be
