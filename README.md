@@ -6,7 +6,7 @@ Dự án nhận diện tiền tệ Việt Nam real-time qua webcam sử dụng T
 
 1. Nguyễn Bảo Hân - 31251027458
 2. Trần Thế Đăng Khoa - 31251020280
-3. Hoàng Bảo Trân - 31251020280
+3. Hoàng Bảo Trân - 31251027696
 ---
 
 ## Cấu trúc project
